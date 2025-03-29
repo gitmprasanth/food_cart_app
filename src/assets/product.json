@@ -1,0 +1,202 @@
+[
+    {
+      "id": 1,
+      "name": "Masala Dosa",
+      "category": "Breakfast",
+      "shop": "Dosa Corner",
+      "amount": 80,
+      "rating": 4.5,
+      "isAvailable": true,
+      "image": "https://img-global.cpcdn.com/recipes/ebd986d16b8781ab/400x400cq70/photo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Idli with Sambar",
+      "category": "Breakfast",
+      "shop": "Idli Factory",
+      "amount": 50,
+      "rating": 4.8,
+      "isAvailable": true,
+      "image": "https://sapanarestaurant.com/wp-content/uploads/2019/11/idli-sambar.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Medu Vada",
+      "category": "Snacks",
+      "shop": "Snack Junction",
+      "amount": 40,
+      "rating": 4.6,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq90MvW56JGHPEgaFkILvNLUT2vv6ra0KYLQ&s"
+    },
+    {
+      "id": 4,
+      "name": "Ven-Pongal",
+      "category": "Breakfast",
+      "shop": "Taste of Tamil Nadu",
+      "amount": 70,
+      "rating": 4.4,
+      "isAvailable": true,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/01/pongal-ven-pongal-500x500.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Chettinad",
+      "category": "Main Course",
+      "shop": "Spice Trail",
+      "amount": 150,
+      "rating": 4.7,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8wSXqniaJSPZsAoIATOurkK2DnVnY8-iyg&s"
+    },
+    {
+      "id": 6,
+      "name": "Banana Bajji",
+      "category": "Snacks",
+      "shop": "Street Treats",
+      "amount": 30,
+      "rating": 4.3,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIndj0xSLwJSQI0mMIo2j23t98aT82ylPyA&s"
+    },
+    {
+      "id": 7,
+      "name": "Appam with Coconut Milk",
+      "category": "Breakfast",
+      "shop": "Kerala Delights",
+      "amount": 100,
+      "rating": 4.5,
+      "isAvailable": true,
+      "image": "https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2024/03/Appam-H3.jpg?resize=600%2C900&ssl=1"
+    },
+    {
+      "id": 8,
+      "name": "Filter Coffee",
+      "category": "Beverages",
+      "shop": "Brew Bliss",
+      "amount": 30,
+      "rating": 4.9,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6r8ZDA5CjMz4VZCCtnBY4fpEby6uW7OGmkhRkIjcKQAQg0CKwbfichI4GXCQXVuSCwE&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "Rasam",
+      "category": "Soups",
+      "shop": "Homely Flavors",
+      "amount": 60,
+      "rating": 4.6,
+      "isAvailable": true,
+      "image": "https://foodsandflavorsbyshilpi.com/wp-content/uploads/2021/04/NEW-FB-Thumbnails-Website-2021-14.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Payasam",
+      "category": "Desserts",
+      "shop": "Sweet Treats",
+      "amount": 90,
+      "rating": 4.8,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTroocJIv0hAvQna-6HMj5sX_AJX-06u-i7LZlUgUUPz_RmXrrEirlsgzrVGmzM8L81T0&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "name": "Thalappakatti Biryani",
+      "category": "Main Course",
+      "shop": "Biryani Spot",
+      "amount": 200,
+      "rating": 4.8,
+      "isAvailable": true,
+      "image": "https://thalappakatti.com/wp-content/uploads/2024/05/thalappakatti-chicken-biriyani-.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Uttapam",
+      "category": "Breakfast",
+      "shop": "Dosa Delight",
+      "amount": 90,
+      "rating": 4.6,
+      "isAvailable": true,
+      "image": "https://rakskitchen.net/wp-content/uploads/2013/03/8527219504_0ddb2cde6f_z.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kuzhi Paniyaram",
+      "category": "Snacks",
+      "shop": "Village Bites",
+      "amount": 60,
+      "rating": 4.4,
+      "isAvailable": true,
+      "image": "https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2019/01/Kuzhi-Paniyaram-H2.jpg?resize=600%2C900&ssl=1"
+    },
+    {
+      "id": 14,
+      "name": "Sambar Rice",
+      "category": "Main Course",
+      "shop": "South Spice",
+      "amount": 120,
+      "rating": 4.7,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4Gf6pw_HF004YP5g7uDJA0rL3IZXI8-6vQ&s"
+    },
+    {
+      "id": 15,
+      "name": "Keerai Vadai",
+      "category": "Snacks",
+      "shop": "Snack Haven",
+      "amount": 40,
+      "rating": 4.5,
+      "isAvailable": true,
+      "image": "https://vaya.in/recipes/wp-content/uploads/2019/12/keerai-vadai.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Parotta with Salna",
+      "category": "Main Course",
+      "shop": "Tamil Nadu Special",
+      "amount": 110,
+      "rating": 4.8,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga5W4Yg6mfOA5KhXviCJId7OBrsOicerhYg&s"
+    },
+    {
+      "id": 17,
+      "name": "Murukku",
+      "category": "Snacks",
+      "shop": "Crunch Corner",
+      "amount": 50,
+      "rating": 4.3,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4pxIPdnJ6bJIMa_XbERC7zWYTSaPGH1nYA&s"
+    },
+    {
+      "id": 18,
+      "name": "Curd Rice",
+      "category": "Main Course",
+      "shop": "Cool Bites",
+      "amount": 80,
+      "rating": 4.6,
+      "isAvailable": true,
+      "image": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/curd-rice.png"
+    },
+    {
+      "id": 19,
+      "name": "Kara Sev",
+      "category": "Snacks",
+      "shop": "Snack Time",
+      "amount": 40,
+      "rating": 4.4,
+      "isAvailable": true,
+      "image": "https://snackattack.in/images/products/c316e252-358a-4ea5-9c74-468ac99537b8thumb.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Elaneer Payasam",
+      "category": "Desserts",
+      "shop": "Sweet Bliss",
+      "amount": 100,
+      "rating": 4.9,
+      "isAvailable": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScklkMQRojrEdipbpI9vnA1w2-3-UBcamfg&s"
+    }
+  ]
